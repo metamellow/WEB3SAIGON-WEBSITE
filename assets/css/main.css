@@ -657,7 +657,7 @@ body{
 .intro--options>a{
     max-width:250px;
     text-decoration:none;
-    color:#282828;
+    color:#5f5f5f;
     -webkit-transition:color .2s ease-in-out;
     transition:color .2s ease-in-out
 }
@@ -1042,13 +1042,13 @@ body{
     background-repeat:no-repeat
 }
 .about--options>a:nth-child(1){
-    background-image:url("../img/about-winners.jpg")
+    background-image:url("../img/aboutus-events2.jpg")
 }
 .about--options>a:nth-child(2){
-    background-image:url("../img/about-philosophy.jpg")
+    background-image:url("../img/aboutus-philo.jpg")
 }
 .about--options>a:nth-child(3){
-    background-image:url("../img/about-history.jpg")
+    background-image:url("../img/aboutus-history.jpg")
 }
 .about--options>a:hover h3{
     bottom:-50px
