@@ -657,7 +657,7 @@ body{
 .intro--options>a{
     max-width:250px;
     text-decoration:none;
-    color:#5f5f5f;
+    color:#bcbaba;
     -webkit-transition:color .2s ease-in-out;
     transition:color .2s ease-in-out
 }
